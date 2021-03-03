@@ -4,4 +4,6 @@ Modified by main.
 
 New text addded.
 
+Text line in the middle
+
 Change from branch_01
